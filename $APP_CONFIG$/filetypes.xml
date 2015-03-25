@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="13">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="start-template" type="PLAIN_TEXT" />
+      <mapping pattern="post-rpm" type="PLAIN_TEXT" />
+      <mapping ext="cat" type="PLAIN_TEXT" />
+      <mapping ext="dll" type="PLAIN_TEXT" />
+      <mapping ext="dsa" type="PLAIN_TEXT" />
+      <mapping ext="scpm" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="apt" type="PLAIN_TEXT" />
+      <mapping ext="dot" type="PLAIN_TEXT" />
+      <removed_mapping ext="dll" type="UNKNOWN" />
+    </extensionMap>
+  </component>
+</application>

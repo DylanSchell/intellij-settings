@@ -1,0 +1,72 @@
+<application>
+  <component name="dataSourceStorage" format="xml">
+    <data-source source="LOCAL" name="mobile" uuid="2569b7a7-41e7-4739-8180-2c83e251cd10">
+      <driver-ref>oracle</driver-ref>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//oracle11-build.bellid.com:1521/orcl</jdbc-url>
+      <default-dialect>Oracle</default-dialect>
+      <libraries>
+        <library>
+          <url>jar://$MAVEN_REPOSITORY$/com/oracle/ojdbc6/11.2.0.1.0/ojdbc6-11.2.0.1.0.jar!/</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="finance ds" uuid="dc562db8-7d88-40b1-9324-1804980750d3">
+      <driver-ref>oracle</driver-ref>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//oracle11-build.bellid.com:1521/orcl</jdbc-url>
+      <default-dialect>Oracle</default-dialect>
+      <libraries>
+        <library>
+          <url>jar://$MAVEN_REPOSITORY$/com/oracle/ojdbc6/11.2.0.1.0/ojdbc6-11.2.0.1.0.jar!/</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="DB2 - BELLID@S-RDAM-DB-08" uuid="5585656f-18ae-4b2e-8d32-91b3b9f6f2bd">
+      <driver-ref>db2</driver-ref>
+      <jdbc-driver>com.ibm.db2.jcc.DB2Driver</jdbc-driver>
+      <jdbc-url>jdbc:db2://S-RDAM-DB-08:50000/BELLID</jdbc-url>
+      <driver-properties>
+        <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+        <property name="currentSchema" value="AMEXEMVPOC" />
+      </driver-properties>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="DB2 - PERF02U1@S-RDAM-PERF-02" uuid="cd62f06f-8515-4cf1-800d-06feafe0bddc">
+      <driver-ref>db2</driver-ref>
+      <jdbc-driver>com.ibm.db2.jcc.DB2Driver</jdbc-driver>
+      <jdbc-url>jdbc:db2://S-RDAM-PERF-02:50000/PERF02U1</jdbc-url>
+      <driver-properties>
+        <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+        <property name="currentSchema" value="AMEXEMVPOC" />
+      </driver-properties>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="KSU-EVAL" uuid="ba8641de-9a50-474e-b97f-86ba38f48daf">
+      <driver-ref>oracle</driver-ref>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//s-rdam-db-09:1521/evalr6.bellid.com</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Oracle - RBCASD.bellid.com@s-rdam-db-09" uuid="dd1b9414-afb1-4781-8e1a-ca6c6c06c625">
+      <driver-ref>oracle</driver-ref>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//s-rdam-db-09:1521/RBCASD.bellid.com</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Oracle - seitcd.bellid.com@ora12srv.bellid.com" uuid="5a2c9ec9-b8cb-4607-ab2e-78d0307503fb">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//ora12srv.bellid.com:1521/seitcd.bellid.com</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="PostgreSQL - bellid@localhost" uuid="a1183783-6d35-47d5-8aed-ab103d72c0cf">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/bellid</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</application>

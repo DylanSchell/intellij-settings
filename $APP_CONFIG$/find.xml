@@ -1,0 +1,26 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.jrxml</mask>
+      <mask>*-data.xml</mask>
+      <mask>web.xml</mask>
+      <mask>*.hbm.xml</mask>
+      <mask>*.sql</mask>
+      <mask>*.java</mask>
+      <mask>pom.xml</mask>
+      <mask>*.html</mask>
+      <mask>*.xml</mask>
+    </recentFileMasks>
+  </component>
+</application>

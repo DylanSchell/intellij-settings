@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="at org.springframework.aop" />
+        <option value="at org.springframework.transaction.interceptor" />
+        <option value="at com.bellid.util.aspects.ExceptionTranslationAspect" />
+      </list>
+    </option>
+  </component>
+</application>
+

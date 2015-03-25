@@ -1,0 +1,9 @@
+<code_scheme name="Default (2)">
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+  <SqlCodeStyleSettings>
+    <option name="IDENTIFIER_CASE" value="1" />
+  </SqlCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+</code_scheme>
