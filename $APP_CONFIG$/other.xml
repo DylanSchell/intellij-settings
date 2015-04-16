@@ -551,6 +551,14 @@
     <filtersTableLayout />
     <propertiesTableLayout />
   </component>
+  <component name="NativeNeighbourhoodPlugin">
+    <iconsDir value="macosx" />
+    <executeWithDefaultAppCommand value="/usr/bin/open|$FilePath$" tokenizerDelims="|" />
+    <showInFileManagerCommand value="/bin/sh|$PluginsHome$/NativeNeighbourhood/classes/org/intellij/plugins/nativeNeighbourhood/icons/macosx/reveal.sh|$FilePath$" tokenizerDelims="|" />
+    <openCommandShellInCommand value="/bin/sh|$PluginsHome$/NativeNeighbourhood/classes/org/intellij/plugins/nativeNeighbourhood/icons/macosx/terminal.sh|$FileDir$" tokenizerDelims="|" />
+    <selectInFileManagerName value="MacOSX Finder" />
+    <nativeExtensions value="pdf,doc,ppt,xls" />
+  </component>
   <component name="PlayframeworkConfiguration" home="$USER_HOME$/Development/play-2.0.4" path="$USER_HOME$/Development/project-management-portal" show="true" />
   <component name="PropertiesSeparatorManager">
     <file url="resourceBundle:file:///Users/d.schell/Development/workspaces/platform/mobile/mobile-workflow-engine/src/main/resources/META-INF/spring" separator="\u002f" />
