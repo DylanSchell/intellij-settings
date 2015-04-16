@@ -557,7 +557,7 @@
     <showInFileManagerCommand value="/bin/sh|$PluginsHome$/NativeNeighbourhood/classes/org/intellij/plugins/nativeNeighbourhood/icons/macosx/reveal.sh|$FilePath$" tokenizerDelims="|" />
     <openCommandShellInCommand value="/bin/sh|$PluginsHome$/NativeNeighbourhood/classes/org/intellij/plugins/nativeNeighbourhood/icons/macosx/terminal.sh|$FileDir$" tokenizerDelims="|" />
     <selectInFileManagerName value="MacOSX Finder" />
-    <nativeExtensions value="pdf,doc,ppt,xls" />
+    <nativeExtensions value="" />
   </component>
   <component name="PlayframeworkConfiguration" home="$USER_HOME$/Development/play-2.0.4" path="$USER_HOME$/Development/project-management-portal" show="true" />
   <component name="PropertiesSeparatorManager">
