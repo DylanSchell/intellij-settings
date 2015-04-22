@@ -21,6 +21,7 @@
       <mask>pom.xml</mask>
       <mask>*.html</mask>
       <mask>*.sql</mask>
+      <mask>*dictionary*.xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
