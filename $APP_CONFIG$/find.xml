@@ -6,7 +6,6 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -20,8 +19,9 @@
       <mask>*.html</mask>
       <mask>*.sql</mask>
       <mask>*dictionary*.xml</mask>
-      <mask>*.xml</mask>
+      <mask>*.properties</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
