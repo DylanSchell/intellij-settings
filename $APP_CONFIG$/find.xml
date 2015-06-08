@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
@@ -17,13 +18,13 @@
       <mask>*-data.xml</mask>
       <mask>web.xml</mask>
       <mask>*.hbm.xml</mask>
-      <mask>pom.xml</mask>
       <mask>*dictionary*.xml</mask>
       <mask>*.properties</mask>
       <mask>*.java</mask>
       <mask>*.html</mask>
       <mask>*.xml</mask>
       <mask>*.sql</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
