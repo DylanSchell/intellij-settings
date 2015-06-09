@@ -43,7 +43,9 @@
         </PlaceSettings>
       </entry>
       <entry key="TestsFiledAssertions">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
