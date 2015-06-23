@@ -27,7 +27,7 @@
     </Renderer>
     <Renderer ID="PrimitiveRenderer">
       <option name="NAME" value="Primitive" />
-      <option name="SHOW_HEX_VALUE" value="false" />
+      <option name="SHOW_HEX_VALUE" value="true" />
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundNodeRenderer">
